@@ -1,0 +1,2 @@
+# Gurespedia
+Güreşe dair herşey 
